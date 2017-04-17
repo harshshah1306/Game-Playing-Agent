@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.util.*;
 
 
-public class GameplayingAgent {
+public class gamePlayingAgent {
     public static Scanner x;
     public static String algorithm;
     public static String s;
